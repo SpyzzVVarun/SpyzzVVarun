@@ -18,6 +18,9 @@
 </div>
 <br><br>
 <p align="center">
+<img src = "https://road-to-kaggle-grandmaster.vercel.app/api/simple/varunnagpalspyz" width="200" height="40" />
+</p>
+<p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunnagpalspyz/competition/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunnagpalspyz/dataset/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunnagpalspyz/notebook/light" />
