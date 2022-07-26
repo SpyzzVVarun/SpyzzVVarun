@@ -16,6 +16,13 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
+<br><br>
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunnagpalspyz/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunnagpalspyz/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunnagpalspyz/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/varunnagpalspyz/discussion/light" />
+</p>
 <br>
 <h1 align = "center">
   Hi there
