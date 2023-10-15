@@ -35,16 +35,15 @@
 
 
 ### :man_technologist: About Me :
-I am a Data Science & AI Sophomore <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width = "30px" /> at IIT Guwahati.
+I am a Data Science & AI prefinal yearite <img src = "https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width = "30px" /> at IIT Guwahati.
 
-- :telescope: Currently I'm into deep learning, NLP using deep learning and writing/reading competition notebooks on Kaggle
+- :telescope: Currently I'm into deep learning, NLP using deep learning and Kaggle
 
 - :seedling: Exploring the tech world and life
 
-- :zap: In my free time, I play FPS games like Valorant and binge Twitter
+- :zap: In my free time, I play FPS games like Call of Duty, Valorant and binge Twitter
  
 - :mailbox:How to reach me:                                                                                                                                            [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-nagpal-aa3a2121b/)
-- 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,10 +52,13 @@ I am a Data Science & AI Sophomore <img src = "https://media.giphy.com/media/WUl
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"  title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" **alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" **alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title = "Apache" **alt="Apache" width="40" height="40"/>&nbsp;
 </div>
 
 ---
